@@ -1,0 +1,39 @@
+metadata_version: 1
+name: Novelty Detection and Online Learning for Chunk Data Streams (Python)
+description: "This contains the Python version of the code and experimental data.
+  \n\tThe ‘FKDA_**’ file in ‘FKDA_**’ includes batch experiments, incremental experiments
+  and novelty detection experiment.\n\tThe ‘FKDA_**_Utils’ file includes all the functions."
+tags:
+- Data Stream
+- Feature Selection
+- Novelty Detection
+- Online Learning
+authors:
+- name: Yi Wang
+  affiliations:
+  - name: Dalian University of Technology (China)
+- name: Yi Ding
+  affiliations:
+  - name: Dalian University of Technology (China)
+- name: Xiangjian He
+  affiliations:
+  - name: University of Technology Sydney (Australia)
+- name: Xin Fan
+  affiliations:
+  - name: Dalian University of Technology (China)
+- name: Chi Lin
+  affiliations:
+  - name: Dalian University of Technology (China)
+- name: Fengqi Li
+  affiliations:
+  - name: Dalian University of Technology (China)
+- name: Tianzhu Wang
+  affiliations:
+  - name: Dalian University of Technology (China)
+- name: Zhongxuan Luo
+  affiliations:
+  - name: Dalian University of Technology (China)
+- name: Jiebo Luo
+  affiliations:
+  - name: University of Rochester (United States)
+corresponding_contributor: {}
